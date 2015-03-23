@@ -1,10 +1,8 @@
 {
   "name": "jshint-visual-studio",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "description": "JSHint Visual Studio reporter",
   "main": "index.js",
-  "scripts": {
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/patricklafrance/jshint-visual-studio.git"
