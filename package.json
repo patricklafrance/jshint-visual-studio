@@ -1,6 +1,6 @@
 {
   "name": "jshint-visual-studio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSHint Visual Studio reporter",
   "main": "index.js",
   "repository": {
