@@ -14,11 +14,17 @@ module.exports = {
             
 			return previous;
 		}, {});
-
-		Object.keys(errors).forEach(function(key) {
-			errors[key].forEach(function(error) {
-                console.log(error);
+		
+		if (Object.keys(errors).length > 0) {
+			console.log("");
+			
+			Object.keys(errors).forEach(function(key) {
+				errors[key].forEach(function(error) {
+					console.log(error);
+				});
 			});
-		});
+			
+			console.log("");
+		}
 	}
 };
