@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/patricklafrance/jshint-visual-studio.git"
+    "url": "https://github.com/ryansmith940/jshint-visual-studio.git"
   },
   "keywords": [
     "visual",
@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patricklafrance/jshint-visual-studio/issues"
+    "url": "https://github.com/ryansmith940/jshint-visual-studio/issues"
   },
-  "homepage": "https://github.com/patricklafrance/jshint-visual-studio",
+  "homepage": "https://github.com/ryansmith940/jshint-visual-studio",
   "devDependencies": {
     "jshint": "~2.4.3"
   }
